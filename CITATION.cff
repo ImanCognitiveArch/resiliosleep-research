@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or discuss ResilioSleep Research, please cite this project and version."
+title: "ResilioSleep Research: Local-first overnight rest-pattern acquisition"
+type: software
+authors:
+  - family-names: "Khorrami"
+    given-names: "Iman"
+version: "0.2.0-rc10"
+date-released: "2026-11-02"
+url: "https://resiliosleep-research.imankhorrami.chatgpt.site/"
+repository-code: "https://github.com/ImanCognitiveArch/resiliosleep-research"
+abstract: >-
+  ResilioSleep is a privacy-preserving Android research prototype for
+  auditable overnight device-motion and derived ambient sound-level
+  observations. It is not a clinical sleep-stage or diagnostic system.
+keywords:
+  - sleep research
+  - digital phenotyping
+  - local-first
+  - privacy
+  - Android
+  - feasibility
+
